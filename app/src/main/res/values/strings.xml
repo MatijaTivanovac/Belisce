@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Belisce</string>
+    <string name="bNewsText">News</string>
+    <string name="bMapText">Map</string>
+    <string name="bLocationsText">Locations</string>
+    <string name="title_activity_map">Map</string>
+</resources>
