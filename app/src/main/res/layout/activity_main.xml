@@ -23,7 +23,7 @@
         android:id="@+id/bLocations"
         android:layout_width="150dp"
         android:layout_height="wrap_content"
-        android:text="@string/bLocationsText"
+        android:text="@string/bCameraText"
         android:layout_marginBottom="20dp"/>
 
 </LinearLayout>

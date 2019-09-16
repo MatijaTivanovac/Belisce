@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case (R.id.bLocations):
                 expIntent = new Intent();
-                expIntent.setClass(getApplicationContext(), News.class);
+                expIntent.setClass(getApplicationContext(), activity_camera.class);
                 this.startActivity(expIntent);
                 break;
         }
