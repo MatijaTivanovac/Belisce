@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case (R.id.bMap):
                 expIntent = new Intent();
-                expIntent.setClass(getApplicationContext(), News.class);
+                expIntent.setClass(getApplicationContext(), activity_map.class);
                 this.startActivity(expIntent);
                 break;
             case (R.id.bLocations):
