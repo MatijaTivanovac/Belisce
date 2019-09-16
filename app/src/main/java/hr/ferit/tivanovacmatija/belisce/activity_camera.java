@@ -57,6 +57,7 @@ public class activity_camera extends AppCompatActivity {
 
             }
         });
+
         imageView = findViewById(R.id.image);
 
         send.setOnClickListener(new View.OnClickListener() {
